@@ -21,11 +21,7 @@ description: "Covering Single-dimensional Arrays, Accessing Elements, and Basic 
 6. [https://www.codechef.com/problems/DOLL?tab=statement](https://www.codechef.com/problems/DOLL?tab=statement)
 ### 7. Sum of 2 least number in array
 7. [https://www.codewars.com/kata/558fc85d8fd1938afb000014](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
-### 8. Kth row of Pascal’s Triangle
-8. [https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/](https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/)
 ### 9. Positive-Negative
-9. [https://www.interviewbit.com/problems/positive-negative/](https://www.interviewbit.com/problems/positive-negative/)
-### 10. MIN MAX in array
-10. [https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1?page=2&category=Arrays&sortBy=submissions](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1?page=2&category=Arrays&sortBy=submissions)
-### 11. Starting Address
-11. [https://www.geeksforgeeks.org/questions/isro-isro-cs-2009-question-28/](https://www.geeksforgeeks.org/questions/isro-isro-cs-2009-question-28/)
+8. [https://www.interviewbit.com/problems/positive-negative/](https://www.interviewbit.com/problems/positive-negative/)
+### 9. Starting Address
+9.  [https://www.geeksforgeeks.org/questions/isro-isro-cs-2009-question-28/](https://www.geeksforgeeks.org/questions/isro-isro-cs-2009-question-28/)
