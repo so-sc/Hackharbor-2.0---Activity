@@ -64,6 +64,39 @@ char* removeStars(char* s) {
     return res;
 }
 ```
+5. [Equal Stacks](https://gist.github.com/techshetty/8fa25256addb0499d9215fc1120bd3a1)
+```c
+#include<stdio.h>
+typedef struct{
+    int a[10000];
+    int top;
+}stack;
+void push(stack *st,int item){
+    st->a[++st->top]=item;
+}
+int pop(stack *st){
+    return st->a[st->top--];
+}
+int isEmpty(stack*st){
+    return st->top<=-1;
+}
+int equal_stacks(stack *s1,stack *s2){
+    while(!isEmpty(s1)&&!isEmpty(s2)){
+        if(pop(s1)!=pop(s2)) return 0;
+    }
+    return isEmpty(s1)&&isEmpty(s2);
+}
+
+int main(){
+   stack s1,s2;
+   s1.top=-1,s2.top=-1;
+    for(int i=0;i<100;i++){
+        push(&s1,i+3);
+        push(&s2,i+3);
+    }
+    printf("%d",equal_stacks(&s1,&s2));
+}
+```
 
 5. [Nearest Smaller number](https://www.interviewbit.com/problems/nearest-smaller-element/)
 ```c
